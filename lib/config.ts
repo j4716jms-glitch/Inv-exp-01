@@ -1,0 +1,1 @@
+export const config = { userName: 'Admin', logo: '/logo.png' };
