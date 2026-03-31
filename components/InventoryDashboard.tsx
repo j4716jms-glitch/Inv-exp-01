@@ -1,0 +1,1 @@
+export default function InventoryDashboard(){ return <div>Dashboard</div>; }
