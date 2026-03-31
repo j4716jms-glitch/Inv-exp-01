@@ -1,0 +1,1 @@
+model Inventory { id String @id @default(cuid()) name String }
